@@ -10,7 +10,9 @@
 
 
 ## Demo SuperSurv APP
+#### Map
+<img src="supersurv_map.png" alt="alt text" width="480" height="640">
 
-<img src="http://www.supergeo.com.tw/Pimage/SV3.1_01.png" alt="alt text" width="600" height="800">
-
+#### measure
+<img src="supersurv_measure.png" alt="alt text" width="480" height="640">
 
